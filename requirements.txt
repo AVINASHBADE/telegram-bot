@@ -1,2 +1,2 @@
-from telegram import Bot
-import pytz
+python-telegram-bot
+pytz
