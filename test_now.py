@@ -4,7 +4,7 @@ import pytz
 from telegram import Bot
 import random
 
-BOT_TOKEN = "8880293130:AAHnQStWb4kqEAlhokJqVfVjUt2AwWsrOEc"
+BOT_TOKEN = "880293130:AAHnQStWb4kqEAlhokJqVfVjUt2AwWsrOEc"
 CHAT_ID = "-1003875136588"
 TIMEZONE = "Asia/Kolkata"
 
